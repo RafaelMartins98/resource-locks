@@ -1,4 +1,4 @@
-# resource-locks
+# Resource Locks
 Resources Management Lock System 
 
 
